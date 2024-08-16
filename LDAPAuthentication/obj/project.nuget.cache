@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sGUnkcgVdGCF2dfeA7PArU5WOBXeMOA+gW5a6d6e5mGKswgsS5gX1jiXMAm1YbjTFPyHXAtTdSKrLf1+4rIjoA==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\.Net\\LDAPAuthentication\\LDAPAuthentication\\LDAPAuthentication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shuva\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\shuva\\.nuget\\packages\\novell.directory.ldap.netstandard\\3.6.0\\novell.directory.ldap.netstandard.3.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

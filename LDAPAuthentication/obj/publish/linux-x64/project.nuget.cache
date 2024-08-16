@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "5lOx6KhQqPQOB9QOHhItP4PXFNNZ4JEZJZf1+SPYooWYTffob4AmvOkWcmwlK2hW3XDJEjROdCgpIJo8rFN1TQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Shuvam\\Desktop\\LDAPAuthentication\\LDAPAuthentication\\LDAPAuthentication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shuvam\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Shuvam\\.nuget\\packages\\novell.directory.ldap.netstandard\\3.6.0\\novell.directory.ldap.netstandard.3.6.0.nupkg.sha512",
+    "C:\\Users\\Shuvam\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\7.0.14\\microsoft.netcore.app.runtime.linux-x64.7.0.14.nupkg.sha512",
+    "C:\\Users\\Shuvam\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\7.0.14\\microsoft.aspnetcore.app.runtime.linux-x64.7.0.14.nupkg.sha512",
+    "C:\\Users\\Shuvam\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\7.0.14\\microsoft.netcore.app.host.linux-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
